@@ -1,6 +1,7 @@
-# tesla_car
+# Screen
+### Click on screenshot to watch Youtube video
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](sc1.png)](https://youtu.be/fNYwGNvFOds)
 
 ## Getting Started
 
