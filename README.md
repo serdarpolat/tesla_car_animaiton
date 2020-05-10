@@ -2,6 +2,7 @@
 ### Click on screenshot to watch Youtube video
 
 [![IMAGE ALT TEXT HERE](sc1.jpg)](https://youtu.be/fNYwGNvFOds)
+[![IMAGE ALT TEXT HERE](sc2.jpg)](https://youtu.be/fNYwGNvFOds)
 
 ## Getting Started
 
